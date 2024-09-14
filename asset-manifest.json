@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.4bf3fbf8.css",
+    "main.js": "/assignment/static/js/main.e8b992c1.js",
+    "static/media/about.png": "/assignment/static/media/about.f1306336113ea67ba4f6.png",
+    "static/media/user3.png": "/assignment/static/media/user3.0d07ed2f2c0f7ad5f9e1.png",
+    "static/media/user2.png": "/assignment/static/media/user2.84e4dff8171ccb8ee441.png",
+    "static/media/user4.png": "/assignment/static/media/user4.0cebbad93686a60a7dad.png",
+    "static/media/user1.png": "/assignment/static/media/user1.56d237f4e36f53415261.png",
+    "static/media/telescope.svg": "/assignment/static/media/telescope.3396d75e5a9879d4ed0b54c39f6149af.svg",
+    "static/media/Calling.svg": "/assignment/static/media/Calling.d3a2f1ca3fad5b94e2fbd856fc46c597.svg",
+    "static/media/twitter.svg": "/assignment/static/media/twitter.472f335fc93c71527d2908eb9fa3a28d.svg",
+    "static/media/location.svg": "/assignment/static/media/location.a3153b4f16bb47785c9909cc417a85b1.svg",
+    "static/media/instagram.svg": "/assignment/static/media/instagram.7c49883492e64b23bc59af932775ceab.svg",
+    "static/media/mail.svg": "/assignment/static/media/mail.6c4483cfb98f80fc3ff8faa9c3c42fcb.svg",
+    "index.html": "/assignment/index.html",
+    "static/media/facebook.svg": "/assignment/static/media/facebook.af9d80bf0090363368629155e0424837.svg",
+    "main.4bf3fbf8.css.map": "/assignment/static/css/main.4bf3fbf8.css.map",
+    "main.e8b992c1.js.map": "/assignment/static/js/main.e8b992c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bf3fbf8.css",
+    "static/js/main.e8b992c1.js"
+  ]
+}
